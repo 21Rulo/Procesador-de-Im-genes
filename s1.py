@@ -14,7 +14,6 @@ import math
 from scipy.stats import skew
 from scipy import ndimage
 import random
-from skimage.feature import graycomatrix, graycoprops
 from matplotlib.figure import Figure
 from matplotlib.colors import LinearSegmentedColormap
 from sklearn.decomposition import PCA
