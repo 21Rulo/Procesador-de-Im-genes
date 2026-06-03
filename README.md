@@ -70,10 +70,12 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina local.
 
     ```txt
     numpy
+    matplotlib
     opencv-python
     Pillow
-    matplotlib
     scipy
+    scikit-image
+    scikit-learn
     ```
 
     Y luego instalarlo con pip:

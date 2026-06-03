@@ -1,5 +1,7 @@
 numpy
+matplotlib
 opencv-python
 Pillow
-matplotlib
 scipy
+scikit-image
+scikit-learn
