@@ -1,4 +1,4 @@
-# Practica1-AI
+# Procesador de Imágenes
 
 Una aplicación para el análisis y procesamiento básico de imágenes. La interfaz gráfica está construida con **Tkinter**, el procesamiento de imágenes se realiza con **OpenCV** y **Pillow**, y las visualizaciones (histogramas y canales) se generan con **Matplotlib**.
 
